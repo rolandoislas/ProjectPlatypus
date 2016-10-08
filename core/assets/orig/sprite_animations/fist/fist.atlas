@@ -1,0 +1,62 @@
+
+fist.png
+size: 954,504
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+fist1
+  rotate: false
+  xy: 0, 0
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+fist2
+  rotate: false
+  xy: 200, 0
+  size: 218, 218
+  orig: 218, 218
+  offset: 0, 0
+  index: -1
+fist3
+  rotate: false
+  xy: 418, 0
+  size: 232, 232
+  orig: 232, 232
+  offset: 0, 0
+  index: -1
+fist4
+  rotate: false
+  xy: 650, 0
+  size: 246, 246
+  orig: 246, 246
+  offset: 0, 0
+  index: -1
+fist5
+  rotate: false
+  xy: 0, 246
+  size: 258, 258
+  orig: 258, 258
+  offset: 0, 0
+  index: -1
+fist6
+  rotate: false
+  xy: 258, 246
+  size: 246, 246
+  orig: 246, 246
+  offset: 0, 0
+  index: -1
+fist7
+  rotate: false
+  xy: 504, 246
+  size: 232, 232
+  orig: 232, 232
+  offset: 0, 0
+  index: -1
+fist8
+  rotate: false
+  xy: 736, 246
+  size: 218, 218
+  orig: 218, 218
+  offset: 0, 0
+  index: -1

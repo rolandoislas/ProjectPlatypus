@@ -1,0 +1,18 @@
+{
+  "invisible": {
+    "x": 0,
+    "y": 0,
+    "rotation": 0,
+    "scale": 1,
+    "attackSpeed": 1,
+    "attackDamage": 0
+  },
+  "swordWood": {
+    "x": 0.8,
+    "y": 0.35,
+    "rotation": -35,
+    "scale": 2,
+    "attackSpeed": 2.5,
+    "attackDamage": 3
+  }
+}

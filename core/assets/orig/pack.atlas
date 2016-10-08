@@ -1,0 +1,119 @@
+
+pack.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Background Rocks
+  rotate: false
+  xy: 2, 14
+  size: 350, 350
+  orig: 350, 350
+  offset: 0, 0
+  index: -1
+Background Tree Birch
+  rotate: false
+  xy: 2, 366
+  size: 350, 600
+  orig: 350, 600
+  offset: 0, 0
+  index: -1
+Background Tree Pine
+  rotate: false
+  xy: 354, 366
+  size: 350, 600
+  orig: 350, 600
+  offset: 0, 0
+  index: -1
+Buck Hide
+  rotate: false
+  xy: 556, 182
+  size: 50, 80
+  orig: 50, 80
+  offset: 0, 0
+  index: -1
+Button Gray
+  rotate: false
+  xy: 706, 666
+  size: 300, 300
+  split: 144, 149, 0, 0
+  orig: 300, 300
+  offset: 0, 0
+  index: -1
+Button Square Gray
+  rotate: false
+  xy: 706, 514
+  size: 300, 150
+  split: 46, 46, 50, 44
+  orig: 300, 150
+  offset: 0, 0
+  index: -1
+Floor Grass Dirt
+  rotate: false
+  xy: 706, 392
+  size: 300, 120
+  split: 127, 67, 0, 0
+  orig: 300, 120
+  offset: 0, 0
+  index: -1
+Invisible
+  rotate: false
+  xy: 2, 2
+  size: 10, 10
+  orig: 10, 10
+  offset: 0, 0
+  index: -1
+NPC Guide
+  rotate: false
+  xy: 354, 64
+  size: 200, 300
+  orig: 200, 300
+  offset: 0, 0
+  index: -1
+Progress Bar Inner Green
+  rotate: false
+  xy: 1008, 856
+  size: 10, 110
+  split: 0, 0, 0, 0
+  orig: 10, 110
+  offset: 0, 0
+  index: -1
+Progress Bar Inner Red
+  rotate: false
+  xy: 608, 254
+  size: 10, 110
+  split: 0, 0, 0, 0
+  orig: 10, 110
+  offset: 0, 0
+  index: -1
+Square Small Green
+  rotate: false
+  xy: 354, 52
+  size: 10, 10
+  split: 0, 0, 0, 0
+  orig: 10, 10
+  offset: 0, 0
+  index: -1
+Square Small Red
+  rotate: false
+  xy: 706, 380
+  size: 10, 10
+  split: 0, 0, 0, 0
+  orig: 10, 10
+  offset: 0, 0
+  index: -1
+Square White Border
+  rotate: false
+  xy: 556, 171
+  size: 9, 9
+  split: 2, 2, 2, 2
+  orig: 9, 9
+  offset: 0, 0
+  index: -1
+Sword Wood
+  rotate: false
+  xy: 556, 264
+  size: 50, 100
+  orig: 50, 100
+  offset: 0, 0
+  index: -1

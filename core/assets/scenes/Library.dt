@@ -1,0 +1,1 @@
+{"sceneName":"Library","composite":{"sSpriteAnimations":[{"uniqueId":4,"tags":[],"x":-0.0125,"y":-0.025,"originX":1.25,"originY":1.875,"layerName":"Default","animationName":"platypus","currentAnimation":"Default","frameRangeMap":[{"name":"Default","endFrame":3}],"playMode":2}],"layers":[{"layerName":"Default","isVisible":true}]},"physicsPropertiesVO":{}}
